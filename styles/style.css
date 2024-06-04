@@ -1,0 +1,13 @@
+#signUpForm{
+    display: none;
+}
+#footer{
+    display: none;
+}
+.userEmail{
+
+    float: right;
+}
+#afterLogin{
+    display: none;
+}
